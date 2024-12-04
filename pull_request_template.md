@@ -1,16 +1,1 @@
-## Description
-<!--
-Describe your changes in detail.
-Why is this change required? What problem does it solve?
-If it fixes an open issue, please link to the issue here.
-If appropriate, add screenshots, flowcharts, etc.
-Remove this comment block and the emojis below before submitting it.
--->
-
-## How to test
-<!--
-Please describe in detail how you tested your changes.
-The reviewer will probably follow the same steps to validate them.
-Include details of your testing environment, the tests you ran to see how your change affects other areas of the code, etc.
-Remove this comment block and the emojis below before submitting it.
--->
+Below is a description of the change and how to test it.
